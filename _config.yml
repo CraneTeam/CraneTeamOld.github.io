@@ -44,20 +44,17 @@ instagram_username:
 
 
 # Navivation
-nav_item_one: Github
-nav_item_one_link: https://github.com/TeaGuns/odin
+nav_item_one: Meet Team
+nav_item_one_link: https://craneteam.github.io/team
 
-nav_item_three: #
-nav_item_three_link: #
+nav_item_one: Meet Team
+nav_item_one_link: https://craneteam.github.io/team
 
-nav_button_one: About CRANE
-nav_button_one_link: https://craneteam.github.io/
+nav_item_three: Contact
+nav_item_three_link: https://craneteam.github.io/contact
 
-nav_button_two: Meet Team
-nav_button_two_link: https://teaguns.github.io/odin/
-
-nav_button_three: Contact
-nav_button_three_link: https://teaguns.github.io/odin/
+nav_button: About CRANE
+nav_button_link: https://craneteam.github.io/
 
 # More Help
 help_one_title: Odin Bugs
