@@ -50,14 +50,14 @@ nav_item_one_link: https://github.com/TeaGuns/odin
 nav_item_three: #
 nav_item_three_link: #
 
-nav_button: About CRANE
-nav_button_link: https://craneteam.github.io/
+nav_button_one: About CRANE
+nav_button_one_link: https://craneteam.github.io/
 
-nav_button: Meet Team
-nav_button_link: https://teaguns.github.io/odin/
+nav_button_two: Meet Team
+nav_button_two_link: https://teaguns.github.io/odin/
 
-nav_button: Contact
-nav_button_link: https://teaguns.github.io/odin/
+nav_button_three: Contact
+nav_button_three_link: https://teaguns.github.io/odin/
 
 # More Help
 help_one_title: Odin Bugs
